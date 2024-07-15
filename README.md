@@ -24,4 +24,4 @@ This project aims to analyze vehicle movement using edge AI. It involves detecti
     ```
 
 ## Authors
-- Intel Intern
+- Sai Shashank
