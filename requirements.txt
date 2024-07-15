@@ -1,0 +1,10 @@
+ultralytics
+tesseract
+pytesseract
+Pillow
+opencv-python
+openpyxl
+pandas
+requests
+
+
