@@ -15,25 +15,6 @@ This project aims to analyze vehicle movement using edge AI. It involves detecti
 
 ## Directory Structure
 
-vehicle_analysis/
-├── input/
-│ ├──NP_dataset
-│ └──Photos
-└── output/
-│ ├──detected_images
-│ ├──insights
-│ ├──New_data
-│ ├──number_plates
-│ └──processed_dataset
-├── src/
-│ ├── process_images.py
-│ ├── yolo_detection.py
-│ ├── extract_timestamps.py
-│ ├── utils.py
-│ └── main.py
-├── requirements.txt
-└── README.md
-
 ![image](https://github.com/user-attachments/assets/5f89b4b7-e469-47cc-b8e5-caee021e92c0)
 
 ## Running the Project
